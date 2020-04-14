@@ -1,2 +1,2 @@
 # notify-demo
-Just a small demo
+Just a small demo.
